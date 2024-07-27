@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Its me Sri Sharan</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 <img align='right' src='https://img.thuthuatphanmem.vn/uploads/2018/10/26/anh-gif-dep-nhat_054957921.gif' width=400>
-- 🔭 Here's My <a href="https://sri-sharan-prakash.netlify.app">Portfolio</a>
+🔭 Here's My <a href="https://sri-sharan-prakash.netlify.app">Portfolio</a>
 
 - 👯 I’m looking to collaborate on **Full-Stack Development**
 - 🌱 I’m currently learning **DSA**
