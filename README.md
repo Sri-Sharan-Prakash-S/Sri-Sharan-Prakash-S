@@ -3,9 +3,8 @@
 <img align='right' src='https://img.thuthuatphanmem.vn/uploads/2018/10/26/anh-gif-dep-nhat_054957921.gif' width=400>
 - 🔭 Here's My <a href="https://sri-sharan-prakash.netlify.app">Portfolio</a>
 
-- 🌱 I’m currently learning **DSA**
-
 - 👯 I’m looking to collaborate on **Full-Stack Development**
+- 🌱 I’m currently learning **DSA**
 
 - 🤝 I’m looking for help with **Placements with FAANG**
 
