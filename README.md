@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **Full-Stack Development**
 - 🌱 I’m currently learning **DSA**
 
-- 🤝 I’m looking for help with **Placements with FAANG**
+- 🤝 I’m looking for help with **Placements in FAANG**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sri-Sharan-Prakash-S](https://github.com/Sri-Sharan-Prakash-S)
 
